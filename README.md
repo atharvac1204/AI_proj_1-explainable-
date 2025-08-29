@@ -1,2 +1,2 @@
-# AI_proj_1-explainable-
-A project to explore the realm of Explainable AI using SHAP and LIME.
+# AI_proj_1-explainable-ai
+A project to provide explainable solutions in the healthcare sector.
